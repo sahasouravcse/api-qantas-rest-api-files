@@ -1,12 +1,8 @@
 # api-qantas-rest-api-files
 
-This CRUD REST Based API is capable of consuming Mobile or Web interface based.
-Here the Customer users can perform Crteate Data operation, Read Data operation, Update and Delete Operation, 
-through End tools such as PostMan
+This REST Based API is capable of being consumed by Mobile or Web interface channels where users can perform the following operations - Create,Read,Update and Delete through End tools such as PostMan
 
 Recommended Versions
-Tool/Framework/Language
-Recommended Version
 
 Java 8
 Eclipse/
@@ -23,15 +19,7 @@ Retrieve all Users - GET /users
 Create a User - POST /users
 Retrieve one User - GET /users/{id} -> /users/1 Delete a User - DELETE /users/{id} -> /users/1
 
-Richardson Maturity Model
-
-Best Practices in RESTful Design
-Consumer First
-Make best use of HTTP
-Request Methods GET
-POST
-SAVE                
-DELETE
+using the Richardson Maturity Model
 
 Response Status
 200 - SUCCESS
